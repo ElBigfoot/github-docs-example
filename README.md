@@ -4,7 +4,8 @@
 
 Codeblocks hara la vida más facíl  para copiar,pegar y compartir codigo.
 
-```package main
+```go
+package main
 
 import (
 	"fmt"
